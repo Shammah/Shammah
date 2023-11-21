@@ -1,3 +1,6 @@
+
+
+
 - 👋 Hi, I’m @Shammah
 - 👀 I’m interested in computer softwares 
 - 🌱 I’m currently learning at Kabarak university
